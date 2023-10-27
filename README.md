@@ -1,4 +1,4 @@
-# Este projeto foi um desafio proposto pela dio.com, que eu aceitei com o objetivo de criar um site para uma clínica. Embora tenha uma abordagem básica, o projeto foi desenvolvido com base nos conceitos abordados nas aulas relacionadas a:
+ Este projeto foi um desafio proposto pela dio.com, que eu aceitei com o objetivo de criar um site para uma clínica. Embora tenha uma abordagem básica, o projeto foi desenvolvido com base nos conceitos abordados nas aulas relacionadas a:
 
 Formulários
 Estruturação e formatação de texto
